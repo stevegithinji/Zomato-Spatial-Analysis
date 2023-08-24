@@ -1,4 +1,4 @@
-# Bank Customer Churn Classification
+# Zomato Spatial Analysis
 
 ![homes_stock_photo](images/.jpg)
 
